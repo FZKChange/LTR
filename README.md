@@ -8,9 +8,10 @@
 2. [04/2021] "Deep Long-Tailed Learning: A Survey"  **Link:** https://arxiv.org/abs/2110.04596
 
 # Stage-wise
-1. [03/2022] "Long-Tailed Recognition via Weight Balancing" **Link:** [https://arxiv.org/abs/1910.09217](https://arxiv.org/abs/2203.14197)
-2. [02/2020] "Decoupling Representation and Classifier for Long-Tailed Recognition" **Link:** https://arxiv.org/abs/1910.09217
-3. [07/2019] "Image Deformation Meta-Networks for One-Shot Learning" **Link:** https://arxiv.org/abs/1905.11641
+1. [04/2024] "Exploring Weight Balancing on Long-Tailed Recognition Problem" **Link:** https://arxiv.org/abs/2305.16573
+3. [03/2022] "Long-Tailed Recognition via Weight Balancing" **Link:** [https://arxiv.org/abs/1910.09217](https://arxiv.org/abs/2203.14197)
+3. [02/2020] "Decoupling Representation and Classifier for Long-Tailed Recognition" **Link:** https://arxiv.org/abs/1910.09217
+4. [07/2019] "Image Deformation Meta-Networks for One-Shot Learning" **Link:** https://arxiv.org/abs/1905.11641
 
 # Diffusion
 1. [04/2024] "Latent-based Diffusion Model for Long-tailed Recognition" **Link:** https://arxiv.org/abs/2404.04517
@@ -24,3 +25,4 @@
 1. [06/2021]"RSG: A Simple but Effective Module for Learning Imbalanced Datasets" **Link:** https://arxiv.org/abs/2106.09859
 2. [12/2020]"M2m: Imbalanced Classification via Major-to-minor Translation" **Link:** https://arxiv.org/abs/2004.00431
 3. [06/2018]"Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning" **Link:** https://arxiv.org/abs/1806.06193
+
